@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 # Configuração inicial
 st.set_page_config(page_title="Meu Dashboard Pessoal", page_icon="📊", layout="wide")
 
-st.set_page_config(page_title="Dashboard de Distribuições Probabilísticas", layout="wide")
-st.sidebar.markdown("Desenvolvido por Prof. Tiago Marum [THM Estatística](https://thmestatistica.com)")
+st.set_page_config(page_title="Dashboard de Andre", layout="wide")
+st.sidebar.markdown("Desenvolvido por Andre Giovane RM556384")
 
 
 # --- FUNÇÃO DE ANÁLISE DE DADOS ---
